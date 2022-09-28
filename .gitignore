@@ -1,0 +1,12 @@
+/media_uploads/
+./run_server.bat
+./stunnel.cert
+./stunnel*
+./dev_https
+./hello_world.xlsx
+
+db.sqlite3
+*/**/migrations
+*/**/__pycache__
+test.http
+/.notebook
