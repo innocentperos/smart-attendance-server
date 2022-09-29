@@ -27,8 +27,7 @@ SECRET_KEY = 'django-insecure-fm4xej1h)j3**9jvgbvm1h55tsu92zg443y0kui*@1+ok%eflb
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    
-    "jj-smart-attendance.herokuapp.com"
+
 ]
 
 
@@ -96,10 +95,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'db6bgmuq5l125g',
-        'USER':'dzrcavudtxaenq',
-        'HOST':'ec2-34-230-198-12.compute-1.amazonaws.com',
-        'PASSWORD':'97b334f65222468afa7467f46ed30e3d278f71e6a27cc790b23e434b245cde04',
-        'PORT':'5432'
+        'USER':'Your usernmae',
+        'HOST':'Your host address',
+        'PASSWORD':'Your password',
+        'PORT':'your port'
 
     }
 }
